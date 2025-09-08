@@ -35,3 +35,9 @@ The dataset consists of three tables that together provide a comprehensive view 
 - Reduces **risks** by identifying transaction errors and patterns of fraud
 
 ## This project was originally developed during the **DataDrip Hackathon – Qafza**, where it ranked among the **Top 30 projects**. 
+
+## 📥 Access the Project & Dataset
+
+You can download the **Power BI project file** and the **datasets** from this shared Google Drive folder:  
+
+🔗 [Project & Dataset – Google Drive](https://drive.google.com/drive/folders/1VG5nwQVIRI_2qbYItEHtSvoyU68edYmL?usp=drive_link)  
